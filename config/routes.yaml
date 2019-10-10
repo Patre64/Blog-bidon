@@ -1,0 +1,17 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+
+#login:
+    #path: /login
+    #defaults:
+        #_controller: OCUserBundle:Security:login
+
+#login_check:
+    #path: /login_check
+
+#logout:
+    #path: /logout
+
+
